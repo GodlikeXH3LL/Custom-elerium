@@ -1,0 +1,5 @@
+Window.Name = "Ninja",
+Window.font = Enum.font.Bangers,
+Window.Image = rbxassetid://102500714477332
+
+Label.font = Enum.font.Garamond
